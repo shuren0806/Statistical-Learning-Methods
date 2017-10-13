@@ -4,14 +4,10 @@ Python implementation of ALL algorithms from Hang Li's "Statistical Learning Met
 It is inspired by WenDesi's [lihang_book_algorithm](https://github.com/WenDesi/lihang_book_algorithm).
 
 Why do I rewrite it again?
-
-a) WenDesi's implementation does not support Python 3 and it seems that WenDesi does not maintain it.
-
-b) there are few code comments in WenDesi's and it is not easily to understand the code.
-
-c) from my point, the code styles in WenDesi's does not comply with PEP8. 
-
-d) some optimizations for some algorithms are not covered WenDesi's.  
+a) WenDesi's implementation does not support Python 3 and it seems that WenDesi does not maintain it.__
+b) there are few code comments in WenDesi's and it is not easily to understand the code. __
+c) from my point, the code styles in WenDesi's does not comply with PEP8. __
+d) some optimizations for some algorithms are not covered WenDesi's.__
 
 
 which aspects will I enhance?
